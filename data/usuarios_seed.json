@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Letícia Lima Silva",
-      "email": "leticialima.ifes@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
