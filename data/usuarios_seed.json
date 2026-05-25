@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Mel Carreiro",
-      "email": "melccunha2007@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
